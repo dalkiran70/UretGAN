@@ -1,7 +1,7 @@
 # UretGAN
 
 The related paper can be found here: 
-The collaborators of the project are Arda Tümay, Tolga Çatalpınar, Naci Dalkıran
+The collaborators of the project are Muhammed Naci Dalkıran, Arda Tümay, Tolga Çatalpınar.
 
 # Aim
 We aimed to improve StackGAN-v2 further to generate more accurate results in a different dataset that they used. We have produced a model based on StackGAN-v2 architecture.
